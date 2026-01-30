@@ -1,0 +1,31 @@
+# DeepSeek Repository Monitor Configuration
+
+# GitHub Access Token (optional, but recommended to avoid rate limits)
+# Get token from: https://github.com/settings/tokens
+# Required scopes: public_repo (for public repositories only)
+github_token: 填写github token
+
+# Check interval in seconds
+check_interval: 600
+
+# WeChat Work webhook URL
+wechat_webhook_url: https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=填写key
+
+# GitHub organizations/users to monitor
+github_orgs:
+  - Tencent-Hunyuan
+  # Add more GitHub organizations or users here:
+  # - openai
+  # - anthropics
+  # - meta-llama
+
+# HuggingFace organizations/users to monitor
+huggingface_orgs:
+  - Tencent
+  # Add more HuggingFace organizations or users here:
+  # - meta-llama
+  # - mistralai
+  # - openai
+
+# State storage directory
+state_dir: state

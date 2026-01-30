@@ -1,0 +1,346 @@
+{
+  "last_check": "2026-01-25T13:35:00.678078Z",
+  "repos": {
+    "DeepSeek-Coder": {
+      "id": 707551301,
+      "url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "2f9fd85927c669dae3c0fbb2d607274023af243e",
+        "message": "Merge pull request #673 from DillionApple/patch-1",
+        "author": "ZHU QIHAO",
+        "date": "2025-11-11T06:44:55Z"
+      }
+    },
+    "DreamCraft3D": {
+      "id": 708693209,
+      "url": "https://github.com/deepseek-ai/DreamCraft3D",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "5829ef116d36c871ce2b9e54a6153dd3856a1561",
+        "message": "Update README.md",
+        "author": "Jingxiang Sun",
+        "date": "2025-04-22T11:09:39Z"
+      }
+    },
+    "awesome-deepseek-coder": {
+      "id": 714906290,
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-coder",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "f77c511dae540b950c4a9bb3b6aed4b7b3e2deb4",
+        "message": "Merge pull request #5 from DillionApple/patch-2",
+        "author": "ZHU QIHAO",
+        "date": "2025-11-11T06:45:15Z"
+      }
+    },
+    "DeepSeek-LLM": {
+      "id": 725062669,
+      "url": "https://github.com/deepseek-ai/DeepSeek-LLM",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "6712a86bfb7dd25c73383c5ad2eb7a8db540258b",
+        "message": "Update README.md (#39)",
+        "author": "stack-heap-overflow",
+        "date": "2024-02-04T12:22:15Z"
+      }
+    },
+    "DeepSeek-MoE": {
+      "id": 737949408,
+      "url": "https://github.com/deepseek-ai/DeepSeek-MoE",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "66edeee5a4f75cbd76e0316229ad101805a90e01",
+        "message": "fix fully finetune bug",
+        "author": "zwd973-deepseek",
+        "date": "2024-01-16T12:17:59Z"
+      }
+    },
+    "awesome-deepseek-integration": {
+      "id": 741744308,
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-integration",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "840e93fbf2aa679f248b000dd35b94a91bf58b05",
+        "message": "update README.md (#497)",
+        "author": "jiqi136",
+        "date": "2025-09-25T08:22:37Z"
+      }
+    },
+    "DeepSeek-Math": {
+      "id": 752957295,
+      "url": "https://github.com/deepseek-ai/DeepSeek-Math",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "b8b0f8ce093d80bf8e9a641e44142f06d092c305",
+        "message": "Update summarize_results.py",
+        "author": "Zhihong Shao",
+        "date": "2024-04-15T07:55:36Z"
+      }
+    },
+    "DeepSeek-VL": {
+      "id": 768519717,
+      "url": "https://github.com/deepseek-ai/DeepSeek-VL",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "681bffb4519856ad27cc17531aacde31ddf6f1a7",
+        "message": "feat: add base64 images support (#51)",
+        "author": "Youho99",
+        "date": "2024-04-24T05:01:06Z"
+      }
+    },
+    "DeepSeek-V2": {
+      "id": 790044051,
+      "url": "https://github.com/deepseek-ai/DeepSeek-V2",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "ec98ee3cbffc32104cd55dba8af884b3d772602a",
+        "message": "Merge pull request #91 from Ying1123/Ying1123-patch-1",
+        "author": "Chong Ruan",
+        "date": "2024-09-25T10:23:55Z"
+      }
+    },
+    "DeepSeek-Coder-V2": {
+      "id": 814950657,
+      "url": "https://github.com/deepseek-ai/DeepSeek-Coder-V2",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "a2b4e0a25b5dab1ee87e8080f76e4512b0725b7b",
+        "message": "Merge pull request #93 from DillionApple/patch-1",
+        "author": "ZHU QIHAO",
+        "date": "2025-11-11T06:44:45Z"
+      }
+    },
+    "ESFT": {
+      "id": 824067953,
+      "url": "https://github.com/deepseek-ai/ESFT",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "3746ca74410c92163cc521571dbd17579bfdc962",
+        "message": "streamline code",
+        "author": "ZihanWang314",
+        "date": "2025-05-22T07:47:10Z"
+      }
+    },
+    "DeepSeek-Prover-V1.5": {
+      "id": 843001887,
+      "url": "https://github.com/deepseek-ai/DeepSeek-Prover-V1.5",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "2c4ba9119eef74d0d611f494261b2c5bae98c69a",
+        "message": "upload files",
+        "author": "zqh",
+        "date": "2024-08-16T03:33:21Z"
+      }
+    },
+    "Janus": {
+      "id": 874559208,
+      "url": "https://github.com/deepseek-ai/Janus",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "1daa72fa409002d40931bd7b36a9280362469ead",
+        "message": "update citation",
+        "author": "charlescxk",
+        "date": "2025-02-01T07:58:14Z"
+      }
+    },
+    "DeepSeek-VL2": {
+      "id": 902697574,
+      "url": "https://github.com/deepseek-ai/DeepSeek-VL2",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "ef9f91e2b6426536b83294c11742c27be66361b1",
+        "message": "Update README.md",
+        "author": "StevenLiuWen",
+        "date": "2025-02-26T05:03:37Z"
+      }
+    },
+    "DeepSeek-V3": {
+      "id": 908531752,
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "9b4e9788e4a3a731f7567338ed15d3ec549ce03b",
+        "message": "Merge pull request #969 from youkaichao/rmsnorm",
+        "author": "GeeeekExplorer",
+        "date": "2025-08-27T09:14:24Z"
+      }
+    },
+    "DeepSeek-R1": {
+      "id": 919443098,
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "0cf78561f1d51c84a21b2190626b21116d5c68bb",
+        "message": "Merge pull request #129 from peti562/patch-2",
+        "author": "Xingkai Yu",
+        "date": "2025-04-09T05:36:23Z"
+      }
+    },
+    "DeepGEMM": {
+      "id": 932038801,
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "0f5f2662027f0db05d4e3f6a94e56e2d8fc45c51",
+        "message": "Multiple updates and refactorings (#280)",
+        "author": "Zhean Xu",
+        "date": "2026-01-16T09:06:52Z"
+      }
+    },
+    "DeepEP": {
+      "id": 933928679,
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "29d31c095796f3c8ece47ee9cdcc167051bbeed9",
+        "message": "Nvshmem 3 5 runtime fixes (#564)",
+        "author": "seth-howell",
+        "date": "2026-01-20T01:28:05Z"
+      }
+    },
+    "open-infra-index": {
+      "id": 936395702,
+      "url": "https://github.com/deepseek-ai/open-infra-index",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "56d86855fcf6e08fdfd45ce6280bd24322c93351",
+        "message": "update 202505 industry track paper",
+        "author": "haswelliris",
+        "date": "2025-05-15T02:00:11Z"
+      }
+    },
+    "FlashMLA": {
+      "id": 936473202,
+      "url": "https://github.com/deepseek-ai/FlashMLA",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "48c6dc426f045cb7743b18f5c7329f35f1b7ed79",
+        "message": "nits",
+        "author": "Shengyu Liu",
+        "date": "2026-01-20T15:57:41Z"
+      }
+    },
+    "smallpond": {
+      "id": 938011478,
+      "url": "https://github.com/deepseek-ai/smallpond",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "52ecc5e45535c7448f848bcb45b0da00d9484f81",
+        "message": "reformat code with --line-length=150 (#18)",
+        "author": "Runji Wang",
+        "date": "2025-03-05T14:46:23Z"
+      }
+    },
+    "profile-data": {
+      "id": 939217111,
+      "url": "https://github.com/deepseek-ai/profile-data",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "449602428a1b023acb8a505d4f34fef536535db6",
+        "message": "Update README.md",
+        "author": "Chengqi Deng",
+        "date": "2025-03-21T02:23:50Z"
+      }
+    },
+    "EPLB": {
+      "id": 939310865,
+      "url": "https://github.com/deepseek-ai/EPLB",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "d52c72d5b2f2fb4c41afbf8eb21366820239913d",
+        "message": "Fix missing device for pphy2mlog tensor",
+        "author": "ramichen",
+        "date": "2025-03-24T09:02:35Z"
+      }
+    },
+    "DualPipe": {
+      "id": 939397443,
+      "url": "https://github.com/deepseek-ai/DualPipe",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "030ce4325f4ebeb437da4ebc6d00a70469dd58ae",
+        "message": "fix: Use strings in __all__ instead of class objects",
+        "author": "yurekami",
+        "date": "2025-12-25T15:13:55Z"
+      }
+    },
+    "3FS": {
+      "id": 940018401,
+      "url": "https://github.com/deepseek-ai/3FS",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "ebbd02f1448c14872659bcba6f120031e35b5a91",
+        "message": "Enable build workflow for pull requests (#394)",
+        "author": "SF-Zhou",
+        "date": "2026-01-24T12:48:44Z"
+      }
+    },
+    "DeepSeek-Prover-V2": {
+      "id": 975544236,
+      "url": "https://github.com/deepseek-ai/DeepSeek-Prover-V2",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "e598a57ea3284997d4a2a168a069fdd5064afbc8",
+        "message": "update putnam results",
+        "author": "ZhihongShao",
+        "date": "2025-07-18T08:11:28Z"
+      }
+    },
+    "DeepSeek-V3.2-Exp": {
+      "id": 1066112337,
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "87e509a2e5a100d221c97df52c6e8be7835f0057",
+        "message": "Update README",
+        "author": "stack-heap-overflow",
+        "date": "2025-11-18T02:49:02Z"
+      }
+    },
+    "DeepSeek-OCR": {
+      "id": 1078049937,
+      "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "e4ac34e1e59b891163fb9325480fbedec865e1f0",
+        "message": "Update README.md",
+        "author": "WeiHaoran",
+        "date": "2025-10-25T02:43:18Z"
+      }
+    },
+    "LPLB": {
+      "id": 1099575389,
+      "url": "https://github.com/deepseek-ai/LPLB",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "0490f79452f7ef277e814449600b1b1dd4c663b3",
+        "message": "Initial commit.",
+        "author": "Elevator14B",
+        "date": "2025-11-19T07:19:47Z"
+      }
+    },
+    "DeepSeek-Math-V2": {
+      "id": 1105098324,
+      "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "665c840782baf7faae8a8b244ea313f3cfcc346f",
+        "message": "update inference code",
+        "author": "shaozhihong",
+        "date": "2025-12-01T07:01:35Z"
+      }
+    },
+    "Engram": {
+      "id": 1132541200,
+      "url": "https://github.com/deepseek-ai/Engram",
+      "default_branch": "main",
+      "last_commit": {
+        "sha": "fb7f84a21f91223715394a33a1dc24bbfb7f788e",
+        "message": "Merge pull request #1 from study8677/main",
+        "author": "Hannibal046",
+        "date": "2026-01-14T01:13:02Z"
+      }
+    }
+  }
+}

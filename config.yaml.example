@@ -1,0 +1,36 @@
+# DeepSeek Repository Monitor Configuration
+# Copy this file to config.yaml and fill in your settings
+
+# GitHub Access Token (optional, but recommended to avoid rate limits)
+# Get token from: https://github.com/settings/tokens
+# Required scopes: public_repo (for public repositories only)
+# Without token: 60 req/hour | With token: 5000 req/hour
+github_token: ""
+
+# Check interval in seconds
+check_interval: 60
+
+# WeChat Work webhook URL (required)
+# Get from: WeChat Work -> Group Settings -> Group Bots
+wechat_webhook_url: https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=YOUR_KEY_HERE
+
+# GitHub organizations/users to monitor
+# Examples: deepseek-ai, openai, anthropics, meta-llama, torvalds (user)
+github_orgs:
+  - deepseek-ai
+  # Add more organizations or users here:
+  # - openai
+  # - anthropics
+  # - meta-llama
+
+# HuggingFace organizations/users to monitor
+# Examples: deepseek-ai, meta-llama, mistralai, openai, google
+huggingface_orgs:
+  - deepseek-ai
+  # Add more organizations or users here:
+  # - meta-llama
+  # - mistralai
+  # - openai
+
+# State storage directory (usually no need to change)
+state_dir: state
